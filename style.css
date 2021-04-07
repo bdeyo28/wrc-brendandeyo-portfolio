@@ -4,6 +4,7 @@ header {
 }
 h1 {
  margin: auto;
+ margin-top: 25px;
  text-align: center;
 }
 img {
