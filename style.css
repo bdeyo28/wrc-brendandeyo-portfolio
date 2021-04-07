@@ -27,7 +27,7 @@ body {
     border-radius: 15px;
     margin: 10px;
 }
-.container .card .box1 {
+.container .card .box {
     position: absolute;
     top: 20px;
     left: 20px;
@@ -48,7 +48,7 @@ body {
 }
 
 
-.container .card .box1 span:nth-child(1) {
+.container .card .box span:nth-child(1) {
     position: absolute;
     top: 0;
     left: 0;
@@ -58,7 +58,7 @@ body {
     animation: animate1 10s linear infinite;
 }
 
-.container .card .box1 span:nth-child(2) {
+.container .card .box span:nth-child(2) {
     position: absolute;
     top: 0;
     right: 0;
@@ -68,7 +68,7 @@ body {
     animation: animate2 10s linear infinite;
   }
 
-.container .card .box1 span:nth-child(3) {
+.container .card .box span:nth-child(3) {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -78,7 +78,7 @@ body {
     animation: animate3 10s linear infinite;
   }
 
-.container .card .box1 span:nth-child(4) {
+.container .card .box span:nth-child(4) {
     position: absolute;
     top: 0;
     left: 0;
@@ -87,3 +87,14 @@ body {
     background: linear-gradient(to top, dimgray, #800000);
     animation: animate4 10s linear infinite;
   }
+
+.container .card .box:hover {
+    transform: translateY(-50px);
+    box-shadow: 0 40px 70px rgba(0,0,0,0.5);
+}
+
+.container .card .box .content {
+    padding: 20px;
+    text-align: center;
+}
+
