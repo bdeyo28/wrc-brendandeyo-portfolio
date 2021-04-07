@@ -4,7 +4,7 @@
 
 <div class="container">
   <div class="card">
-    <div class="box>
+    <div class="box">
                 <span>
                 <span>
                 <span>
