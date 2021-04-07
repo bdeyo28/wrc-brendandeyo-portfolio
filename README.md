@@ -7,13 +7,13 @@
 * **Phone:** 240 404 8674
 
 ## Summary
-* **Fullstack Engineer proficient in front and backend development with key languages such as:**
+**Fullstack Engineer proficient in front and backend development with key languages such as:**
 * HTML/CSS
 * Java
 * JavaScript
 * TypeScript
 * SQL
-* **Along with these knowledge in these frameworks / tech stack tools:**
+**Along with these knowledge in these frameworks / tech stack tools:**
 * Springboot 
 * Maven
 * PostgreSQL
