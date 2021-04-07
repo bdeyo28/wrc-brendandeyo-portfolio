@@ -15,7 +15,9 @@ h2 {
 hr {
  margin: auto;
  text-align: center;
- width: 75%;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ width: 100%;
  color: #b5e853;
  opacity: .7;
 }
