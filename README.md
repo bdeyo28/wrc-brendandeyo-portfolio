@@ -13,7 +13,7 @@
 * JavaScript
 * TypeScript
 * SQL
-<br>
+
 **Along with these knowledge in these frameworks / tech stack tools:**
 * Springboot 
 * Maven
