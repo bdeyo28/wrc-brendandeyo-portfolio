@@ -8,7 +8,9 @@
 * **Email:** `bdeyo@talentpath.com`
 * **Phone:** 240 404 8674
 
-## Summary
+## About
+
+## Technical Skills
 **Fullstack Engineer proficient in front and backend development with key languages:**
 * HTML/CSS
 * Java
@@ -24,3 +26,10 @@
 * JUnit Testing
 * Angular
 * Vue
+
+## Work Experience
+
+## Education
+* McDaniel College - Bachelor's in Computer Science (Completed May 2019)
+* Certified Full Stack Developer (Completed March 2021)
+* University of Maryland Global Campus - Master's in Cybersecurity Technology (Expected Winter 2021)
