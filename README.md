@@ -1,4 +1,4 @@
-<link href="style. css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 
 <body>
 
@@ -18,10 +18,6 @@
                     <li><b>Phone: </b>240 404 8674</li>
                   </ul>
                   <h2>About</h2>
-                  </div>
-                  </div>
-                  </div>
-                  </div>
-</body>
+
 
 
