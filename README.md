@@ -8,7 +8,11 @@
 * **Email:** `bdeyo@talentpath.com`
 * **Phone:** 240 404 8674
 
+<hr>
+
 ## About
+
+<hr>
 
 ## Technical Skills
 **Fullstack Engineer proficient in front and backend development with key languages:**
@@ -27,7 +31,11 @@
 * Angular
 * Vue
 
+<hr>
+
 ## Work Experience
+
+<hr>
 
 ## Education
 
