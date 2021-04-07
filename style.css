@@ -6,7 +6,10 @@ h1 {
  margin: auto;
  margin-top: 25px;
  text-align: center;
- font-size: x-large;
+ font-size: xx-large;
+}
+h2 {
+ font-size: xx-large;
 }
 img {
  display: block;
