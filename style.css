@@ -1,4 +1,10 @@
+header {
+ margin: auto;
+ text-align: center;
+}
 img {
+ margin: auto;
+ text-align: center;
  width: 200px;
  height: 200px;
  border: 5px solid #b5e853;
