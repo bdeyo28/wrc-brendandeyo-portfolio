@@ -2,3 +2,24 @@ body {
   display: flex;
   justify-content: center;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 40px 0;
+}
+
+.container .card {
+    position: relative;
+    min-width: 380px;
+    height: 490px;
+    box-shadow: 10px 10px 10px 10px black;
+    box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
+                inset -5px -5px 15px rgba(255,255,255,0.1),
+                5px 5px 15px rgba(0,0,0,0.3),
+                -5px -5px 15px rgba(255,255,255,0.1);
+    border-radius: 15px;
+    margin: 10px;
+}
