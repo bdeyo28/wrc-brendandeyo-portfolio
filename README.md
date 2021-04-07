@@ -1,6 +1,4 @@
 <link href="style.css" rel="stylesheet">
-
-<div class="container">
   
 # Brendan Deyo's Portfolio
 
@@ -27,4 +25,3 @@
 * Angular
 * Vue
 
-</div>
