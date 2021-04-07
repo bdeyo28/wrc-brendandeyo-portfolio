@@ -12,6 +12,13 @@ h2 {
  font-size: xx-large;
  margin-bottom: 15px;
 }
+hr {
+ margin: auto;
+ text-align: center;
+ width: 75%;
+ color: #b5e853;
+ opacity: .7;
+}
 img {
  display: block;
  margin-left: auto;
