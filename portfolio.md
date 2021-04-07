@@ -1,5 +1,7 @@
 # Brendan Deyo's Portfolio
 
+![portfolio-profile-pic](file:///Users/brendandeyo/Documents/headshot-1.jpeg)
+
 ## Contact Information
 * **Email:** `bdeyo@talentpath.com`
 * **Phone:** 240 404 8674
