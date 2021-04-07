@@ -9,7 +9,7 @@
 * **Phone:** 240 404 8674
 
 ## Summary
-**Fullstack Engineer proficient in front and backend development with key languages such as:**
+**Fullstack Engineer proficient in front and backend development with key languages:**
 * HTML/CSS
 * Java
 * JavaScript
