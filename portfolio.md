@@ -1,6 +1,6 @@
 # Brendan Deyo's Portfolio
 
-![portfolio-profile-pic](file:///Users/brendandeyo/Documents/headshot-1.jpeg)
+![portfolio-profile-pic](./Documents/headshot-1.jpeg)
 
 ## Contact Information
 * **Email:** `bdeyo@talentpath.com`
