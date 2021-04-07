@@ -1,6 +1,6 @@
 header {
-  margin: auto;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 body {
   display: flex;
