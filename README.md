@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-<div class = "container">
+<div class="container">
 
 # Brendan Deyo's Portfolio
 
