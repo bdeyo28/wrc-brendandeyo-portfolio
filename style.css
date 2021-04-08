@@ -2,11 +2,11 @@ header {
  margin: auto;
  text-align: center;
  background-image: linear-gradient(to right bottom, #000000, #2b2b2b, #515151, #7c7c7c, #a9a9a9) !important;
- width: 950px;
+ width: 1025px;
  padding: 20px;
 }
 .container {
- width: 950px;
+ width: 1025px;
  background: #000000;
  padding: 20px;
 }
