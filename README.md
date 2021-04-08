@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-<div>
+<span>
 
 # Brendan Deyo's Portfolio
 
@@ -50,4 +50,4 @@ Certified As Of March 2021
 #### University of Maryland Global Campus 
 Master's in Cybersecurity Technology (Expected Winter 2021)
 
-</div>
+</span>
