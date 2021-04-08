@@ -38,8 +38,9 @@ h3 {
 }
 code {
  color: #93bd20;
+ margin-right: 3px;
 }
-b {
+strong {
  color: #93bd20;
 }
 hr {
