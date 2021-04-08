@@ -21,6 +21,7 @@ a {
 }
 h1 {
  margin: auto;
+ padding-top: 25px;
  margin-top: 25px;
  text-align: center;
  font-size: xx-large;
