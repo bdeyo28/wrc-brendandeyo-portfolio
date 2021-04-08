@@ -61,7 +61,7 @@
 * Bachelor's in Computer Science, May 2019
 
 ### Talent Path Full Stack Engineering Track 
-* Certificate of Completetion, March 2021
+* Certificate of Completion, March 2021
 
 ### University of Maryland Global Campus 
 * Master's in Cybersecurity Technology, Expected Winter 2021
