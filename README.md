@@ -36,11 +36,15 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
+
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
+
 
 * Daily Pump Initiative Demo Day Project
 
+
 *Click [HERE]() To Download ZIP File*
+
 
 <hr>
 
