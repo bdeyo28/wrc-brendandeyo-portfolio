@@ -8,6 +8,10 @@ header {
  width: 80%;
  background: #000000;
 }
+i {
+ margin: auto;
+ text-align: center;
+}
 h1 {
  margin: auto;
  margin-top: 25px;
