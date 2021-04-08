@@ -6,6 +6,7 @@ header {
 }
 .container {
  width: 80%;
+ background: #000000;
 }
 h1 {
  margin: auto;
