@@ -1,5 +1,6 @@
 <link href="style.css" rel="stylesheet">
-<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous">
+  
 # Brendan Deyo's Portfolio
 
 ![portfolio-profile-pic](https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg)
