@@ -12,6 +12,13 @@ i {
  margin: auto;
  text-align: center;
 }
+a {
+ background: rgba(0,0,0,0.9);
+ border: 1px solid rgba(255,255,255,0.15);
+ padding: 0px 3px;
+ color: #aa759f;
+ border-radius: 2px;
+}
 h1 {
  margin: auto;
  margin-top: 25px;
