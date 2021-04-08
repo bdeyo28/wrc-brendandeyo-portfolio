@@ -2,6 +2,10 @@
  margin: auto;
  text-align: center;
 }
+.fork {
+ margin: auto;
+ text-align: center;
+}
 .container {
  width: 1025px;
  background: #000000;
@@ -15,9 +19,9 @@ em {
 }
 a {
  background: rgba(0,0,0,0.9);
- border: 1px solid rgba(255,255,255,0.15);
+ border: 1px solid #5d910b;
  padding: 0px 3px;
- color: #aa759f;
+ color: #FFFFFF;
  border-radius: 2px;
 }
 h1 {
@@ -45,6 +49,7 @@ img {
  display: block;
  margin-left: auto;
  margin-right: auto;
+ margin-top: 30px;
  width: 275px;
  height: 275px;
  border: 5px solid #b5e853;
