@@ -18,14 +18,14 @@
 <hr>
 
 ## Technical Skills
-### **Fullstack Engineer proficient in front and backend development with key languages:**
+**Fullstack Engineer proficient in front and backend development with key languages:**
 * HTML/CSS
 * Java
 * JavaScript
 * TypeScript
 * SQL
 
-### **Along with knowledge in these frameworks / tech stack tools:**
+**Along with knowledge in these frameworks / tech stack tools:**
 * Springboot 
 * Maven
 * PostgreSQL
