@@ -19,7 +19,7 @@ em {
 }
 a {
  background: rgba(0,0,0,0.9);
- color: #5d910b;
+ color: #93bd20;
 }
 h1 {
  margin: auto;
@@ -50,7 +50,7 @@ img {
  margin-bottom: 10px;
  width: 275px;
  height: 275px;
- border: 5px solid #b5e853;
+ border: 5px solid #93bd20;
  border-radius: 50%;
 }
 
