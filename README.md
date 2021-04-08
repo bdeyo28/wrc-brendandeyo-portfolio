@@ -25,7 +25,7 @@
 * TypeScript
 * SQL
 
-**& These Frameworks / Tech Stack Tools:**
+**& Frameworks / Tech Stack Tools:**
 * Springboot 
 * Maven
 * PostgreSQL
