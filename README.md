@@ -58,4 +58,3 @@ Certified As Of March 2021
 #### University of Maryland Global Campus 
 Master's in Cybersecurity Technology (Expected Winter 2021)
 
-<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous">
