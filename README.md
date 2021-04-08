@@ -58,11 +58,11 @@
 ## Education
 
 ### McDaniel College 
-Bachelor's in Computer Science (Completed May 2019)
+* Bachelor's in Computer Science (Completed May 2019)
 
 ### Talent Path Full Stack Engineering Track 
-Certified As Of March 2021
+* Certified As Of March 2021
 
 ### University of Maryland Global Campus 
-Master's in Cybersecurity Technology (Expected Winter 2021)
+* Master's in Cybersecurity Technology (Expected Winter 2021)
 
