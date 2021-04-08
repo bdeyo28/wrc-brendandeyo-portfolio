@@ -38,11 +38,11 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
-*Click [HERE]() To Download ZIP File* {#zip}
+*Click [HERE]() To Download ZIP File*{#zip}
 
 * Daily Pump Initiative Demo Day Project
 
-*Click [HERE]() To Download ZIP File* {#zip}
+*Click [HERE]() To Download ZIP File*{#zip}
 
 <hr>
 
