@@ -35,6 +35,13 @@
 
 <hr>
 
+## Projects
+* Find My Paradise Mock Air Bnb Web Application
+
+* Daily Pump Initiative Demo Day Project
+
+<hr>
+
 ## Work Experience
 
 <hr>
