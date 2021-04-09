@@ -37,14 +37,18 @@
 <hr>
 
 ## Projects
-* Find My Paradise Mock Air Bnb Web Application
+### Find My Paradise Mock Air Bnb Web Application
+* Description:
+* Technologies:  
 
 <img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
-* Daily Pump Initiative Demo Day Project
+### Daily Pump Initiative Demo Day Project
+* Description: 
+* Technologies: 
 
 <img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
 
