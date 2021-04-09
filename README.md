@@ -15,7 +15,7 @@
 
 ## About
 
-#### Results-oriented McDaniel College graduate pursuing a Master’s of Science in Cybersecurity Technology at UMGC. **Currently employed as a Full Stack Engineering Consultant with Talent Path, a division of Genuent LLC.** Skilled in individual and group projects, adept in problem analysis, and comfortable presenting lectures. Possesses a strong background in HTML/CSS web development technologies, Java/JavaScript procedural and OOP programming, including knowledge of SQL database management. Values strong work ethics / environment and work-life balance. 
+#### Results-oriented McDaniel College graduate pursuing a Master’s of Science in Cybersecurity Technology at UMGC. *Currently employed as a Full Stack Engineering Consultant with Talent Path, a division of Genuent LLC.* Skilled in individual and group projects, adept in problem analysis, and comfortable presenting lectures. Possesses a strong background in HTML/CSS web development technologies, Java/JavaScript procedural and OOP programming, including knowledge of SQL database management. Values strong work ethics / environment and work-life balance. 
 
 <hr>
 
