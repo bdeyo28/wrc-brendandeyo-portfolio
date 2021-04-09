@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://p1.hiclipart.com/preview/507/111/690/leopard-archives-white-zip-file-icon.jpg" id="zip">
+<img src="https://iatse919.org/wp-content/uploads/2020/04/zip.png" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://p1.hiclipart.com/preview/507/111/690/leopard-archives-white-zip-file-icon.jpg" id="zip">
+<img src="https://iatse919.org/wp-content/uploads/2020/04/zip.png" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
