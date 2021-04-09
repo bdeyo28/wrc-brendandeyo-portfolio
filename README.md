@@ -7,7 +7,7 @@
 ![portfolio-profile-pic](https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg)
 
 
-## Contact Information
+## Contact Information {#zip}
 **Email:** bdeyo@talentpath.com
 
 **Phone:** (240) 404-8674
