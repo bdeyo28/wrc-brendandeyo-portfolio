@@ -39,8 +39,8 @@
 <hr>
 
 ## Projects
-### Find My Paradise Mock Air Bnb Web Application
-* *Description:*
+### Find My Paradise Web Application
+* *Description:* Developed full stack mock air bnb web page, allows users to book reservations and view possible listings. Users are granted access to scheduling via a calender and getting the location from the map component. Like the official air bnb web page, the users are able to view the listing's amenities and get easy access to things to do around the listing area.
 * *Technologies:* Spring Boot API, JUnit, JPA, Java, MySQL, VueJS
 
 <img src="FMP.gif" id="gif">
@@ -49,7 +49,7 @@
 
 
 ### Daily Pump Initiative Demo Day Project
-* *Description:* 
+* *Description:* Inspired by my great interest in weightlifting and overall fitness, I developed Daily Pump Initiative to serve as a quick and effective personal training application for the general population, with a focused towards working adults. As a certified personal trainer with almost 2 years of experience and 20+ clients, I know what works and what doesn’t when it comes to working out. Utilizing HTML, CSS, Angular JS, and PostgreSQL I was able to personally make over 20+ workouts and over 60+ detailed exercises to help guide my users in the gym on a time budget. The user can view each of my workouts as well the details while also having the option to view a video demonstrating the correct technique. Furthermore, the user is also allowed to add, edit, and delete workouts from their library if they feel needed. As someone who has struggled with time in the gym and has experienced the daily grind, these are workouts that I have personally done many of times and feel can effectively help my users achieve their fitness related goals. 
 * *Technologies:* Spring Boot API, JUnit, Java, PostgreSQL, Angular 
 
 <img src="DPI.gif" id="gif">
