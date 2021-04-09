@@ -7,7 +7,7 @@
 ![portfolio-profile-pic](https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg)
 
 
-## Contact Information {#zip}
+## Contact Information
 **Email:** bdeyo@talentpath.com
 
 **Phone:** (240) 404-8674
@@ -40,14 +40,14 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
-![zip-file-icon](https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png) {#zip}
+![zip-file-icon](https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png)
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
 * Daily Pump Initiative Demo Day Project
 
-![zip-file-icon](https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png) {#zip}
+![zip-file-icon](https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png)
 
 *Click [HERE]() To Download ZIP File*
 
