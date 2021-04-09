@@ -39,20 +39,29 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
-<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
+<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
 * Daily Pump Initiative Demo Day Project
 
-<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
+<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
 <hr>
 
 ## Work Experience
+
+### Full Stack Engineer Consultant - Talent Path
+* Dates: January 2021 - Present
+
+### Certified Personal Trainer - Gold's Gym
+* Dates: September 2019 - December 2020
+
+### Java Tutor - McDaniel College, Department of Computer Science
+* Dates: October 2016 - May 2019
 
 <hr>
 
