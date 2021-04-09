@@ -21,25 +21,6 @@
 
 <hr>
 
-## Technical Skills
-**Proficient In Front & Backend Development With Key Languages:**
-* HTML/CSS
-* Java
-* JavaScript
-* TypeScript
-* SQL
-
-**& Frameworks / Tech Stack Tools:**
-* Spring Boot
-* Maven
-* PostgreSQL
-* MySQL
-* JUnit Testing
-* Angular
-* Vue
-
-<hr>
-
 ## Projects
 ### Find My Paradise Web Application
 * *Description:* Developed full stack mock air bnb web page, allows users to book reservations and view possible listings. Users are granted access to scheduling via a calender and getting the location from the map component. Like the official air bnb web page, the users are able to view the listing's amenities and get easy access to things to do around the listing area.
@@ -87,3 +68,21 @@
 ### University of Maryland Global Campus 
 * Master's in Cybersecurity Technology, Expected Winter 2021
 
+<hr>
+
+## Technical Skills
+**Proficient In Front & Backend Development With Key Languages:**
+* HTML/CSS
+* Java
+* JavaScript
+* TypeScript
+* SQL
+
+**Technology Stack:**
+* Spring Boot
+* Maven
+* PostgreSQL
+* MySQL
+* JUnit Testing
+* Angular
+* Vue
