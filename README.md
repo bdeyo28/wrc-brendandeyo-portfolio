@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
+<img src="https://as1.ftcdn.net/jpg/02/81/48/08/500_F_281480834_ukKYtMSx4HI2fGdgwNjUAa3QKVq2sFsc.jpg" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-zip-file-document-icon-png-image_4166551.jpg" id="zip">
+<img src="https://as1.ftcdn.net/jpg/02/81/48/08/500_F_281480834_ukKYtMSx4HI2fGdgwNjUAa3QKVq2sFsc.jpg" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
