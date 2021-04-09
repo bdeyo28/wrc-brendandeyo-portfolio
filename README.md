@@ -47,7 +47,7 @@
 
 * Daily Pump Initiative Demo Day Project
 
-![zip-file-icon](https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png)
+<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
