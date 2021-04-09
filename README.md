@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://p7.hiclipart.com/preview/654/911/799/computer-icons-zip-text-file-computer-file-file-zip-icon-svg.jpg" id="zip">
+<img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://p7.hiclipart.com/preview/654/911/799/computer-icons-zip-text-file-computer-file-file-zip-icon-svg.jpg" id="zip">
+<img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
