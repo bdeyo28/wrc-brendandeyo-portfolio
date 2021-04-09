@@ -38,8 +38,8 @@
 
 ## Projects
 ### Find My Paradise Mock Air Bnb Web Application
-* Description:
-* Technologies:  
+* *Description:*
+* *Technologies:*  
 
 <img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
@@ -47,8 +47,8 @@
 
 
 ### Daily Pump Initiative Demo Day Project
-* Description: 
-* Technologies: 
+* *Description:* 
+* *Technologies:* 
 
 <img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
@@ -59,16 +59,16 @@
 ## Work Experience
 
 ### Full Stack Engineer Consultant - Talent Path
-* Dates: January 2021 - Present
-* Description: 
+* *Dates:* January 2021 - Present
+* *Description:* 
 
 ### Certified Personal Trainer - Gold's Gym
-* Dates: September 2019 - December 2020
-* Description: Assist clients in achieving their physical goals through 1 on 1 training. Determine prospective member fitness objectives, design effective fitness plans, and sell professional services/membership.
+* *Dates:* September 2019 - December 2020
+* *Description:* Assist clients in achieving their physical goals through 1 on 1 training. Determine prospective member fitness objectives, design effective fitness plans, and sell professional services/membership.
 
 ### Java Tutor - McDaniel College, Department of Computer Science
-* Dates: October 2016 - May 2019
-* Description: Instructed over 40 college students in groups and individually on the “Art of Programming”. Facilitated class presentations, lectures, and labs.
+* *Dates:* October 2016 - May 2019
+* *Description:* Instructed over 40 college students in groups and individually on the “Art of Programming”. Facilitated class presentations, lectures, and labs.
 
 <hr>
 
