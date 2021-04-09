@@ -43,7 +43,7 @@
 
 <img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
-*Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
+<em id="italic">Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File</em>
 
 
 ### Daily Pump Initiative Demo Day Project
@@ -52,7 +52,7 @@
 
 <img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
-*Click [HERE]() To Download ZIP File*
+<em id="italic">Click [HERE]() To Download ZIP File</em>
 
 <hr>
 
