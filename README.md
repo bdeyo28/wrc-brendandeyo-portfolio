@@ -3,8 +3,7 @@
 # Brendan Deyo's Portfolio
 
 
-
-![portfolio-profile-pic](https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg)
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg" id = "profile">
 
 
 ## Contact Information
@@ -47,7 +46,7 @@
 
 * Daily Pump Initiative Demo Day Project
 
-<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
+<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip" style="color: white; width: 50px; height: 50px; margin: auto; text-align: center">
 
 *Click [HERE]() To Download ZIP File*
 
