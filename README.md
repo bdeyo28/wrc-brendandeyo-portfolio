@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://iatse919.org/wp-content/uploads/2020/04/zip.png" id="zip">
+<img src="https://p7.hiclipart.com/preview/654/911/799/computer-icons-zip-text-file-computer-file-file-zip-icon-svg.jpg" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://iatse919.org/wp-content/uploads/2020/04/zip.png" id="zip">
+<img src="https://p7.hiclipart.com/preview/654/911/799/computer-icons-zip-text-file-computer-file-file-zip-icon-svg.jpg" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
