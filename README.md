@@ -40,10 +40,14 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
+![zip-file-icon](https://www.clipartmax.com/png/middle/247-2477228_zip-file-format-free-icon-zip-file-icon-png.png)
+
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
 * Daily Pump Initiative Demo Day Project
+
+![zip-file-icon](https://www.clipartmax.com/png/middle/247-2477228_zip-file-format-free-icon-zip-file-icon-png.png)
 
 *Click [HERE]() To Download ZIP File*
 
