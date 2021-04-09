@@ -10,6 +10,7 @@
 
 ## Contact Information
 **Email:** `bdeyo@talentpath.com`
+
 **Phone:** 240 404 8674
 
 <hr>
