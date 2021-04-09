@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://e1.pngegg.com/pngimages/507/111/png-clipart-leopard-archives-white-zip-file-icon.png" id="zip">
+<img src="https://p1.hiclipart.com/preview/507/111/690/leopard-archives-white-zip-file-icon.jpg" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://e1.pngegg.com/pngimages/507/111/png-clipart-leopard-archives-white-zip-file-icon.png" id="zip">
+<img src="https://p1.hiclipart.com/preview/507/111/690/leopard-archives-white-zip-file-icon.jpg" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
