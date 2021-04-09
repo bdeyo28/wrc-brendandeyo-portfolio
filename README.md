@@ -52,6 +52,8 @@
 * *Description:* 
 * *Technologies:* 
 
+<img src="DPI.gif" id="gif">
+
 <em id="italic">Click [HERE](https://github.com/bdeyo28/demo-project-repo) To Visit Github Repository</em>
 
 <hr>
