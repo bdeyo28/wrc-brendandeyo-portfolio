@@ -11,7 +11,7 @@
 
 #### **Phone:** (240) 404-8674
 
-#### **LinkedIn** [https://www.linkedin.com/in/brendan-deyo/](https://www.linkedin.com/in/brendan-deyo/)
+#### **LinkedIn:** [https://www.linkedin.com/in/brendan-deyo/](https://www.linkedin.com/in/brendan-deyo/)
 
 <hr>
 
