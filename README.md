@@ -45,18 +45,14 @@
 
 <img src="FMP.gif" id="gif">
 
-<img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
-
-<em id="italic">Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File</em>
+<em id="italic">Click [HERE](https://github.com/Smelser-Squad/FindMyParadise) To Visit Github Repository</em>
 
 
 ### Daily Pump Initiative Demo Day Project
 * *Description:* 
 * *Technologies:* 
 
-<img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
-
-<em id="italic">Click [HERE]() To Download ZIP File</em>
+<em id="italic">Click [HERE](https://github.com/bdeyo28/demo-project-repo) To Visit Github Repository</em>
 
 <hr>
 
