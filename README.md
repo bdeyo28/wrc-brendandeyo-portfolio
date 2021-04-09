@@ -43,7 +43,7 @@
 * *Description:*
 * *Technologies:*  
 
-<img src="../Documents/FMP.gif" id="gif">
+<img src="FMP.gif" id="gif">
 
 <img src="https://www.pikpng.com/pngl/m/595-5951176_png-file-zip-file-icon-png-clipart.png" id="zip">
 
