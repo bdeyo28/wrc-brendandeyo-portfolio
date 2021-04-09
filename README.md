@@ -15,6 +15,8 @@
 
 ## About
 
+#### Results-oriented McDaniel College graduate pursuing a Master’s of Science in Cybersecurity Technology at UMGC. Skilled in individual and group projects, adept in problem analysis, and comfortable presenting lectures. Possesses a strong background in HTML/CSS web development technologies, Java/JavaScript procedural and OOP programming, including knowledge of SQL database management. Values strong work ethics / environment and work-life balance. 
+
 <hr>
 
 ## Technical Skills
