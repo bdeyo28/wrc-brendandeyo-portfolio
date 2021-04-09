@@ -1,5 +1,4 @@
 <link href="style.css" rel="stylesheet">
-<link rel="stylesheet" href="font-awesome/css/font-awesome.css">
 
 # Brendan Deyo's Portfolio
 
@@ -40,17 +39,12 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
-@icon-file-archive
-
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
 * Daily Pump Initiative Demo Day Project
 
-@icon-file-archive
-
 *Click [HERE]() To Download ZIP File*
-
 
 <hr>
 
