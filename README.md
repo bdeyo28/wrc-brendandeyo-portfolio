@@ -39,14 +39,14 @@
 ## Projects
 * Find My Paradise Mock Air Bnb Web Application
 
-<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip" style="color: white; width: 50px; height: 50px; margin: auto; text-align: center">
+<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
 
 * Daily Pump Initiative Demo Day Project
 
-<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip" style="color: white; width: 50px; height: 50px; margin: auto; text-align: center">
+<img src="https://cdn1.iconfinder.com/data/icons/file-types-29/1792/file-zip-512.png" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
