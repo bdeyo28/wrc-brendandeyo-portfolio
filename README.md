@@ -41,7 +41,7 @@
 * Description:
 * Technologies:  
 
-<img src="https://as1.ftcdn.net/jpg/02/81/48/08/500_F_281480834_ukKYtMSx4HI2fGdgwNjUAa3QKVq2sFsc.jpg" id="zip">
+<img src="https://e1.pngegg.com/pngimages/507/111/png-clipart-leopard-archives-white-zip-file-icon.png" id="zip">
 
 *Click [HERE](../Documents/FindMyParadise.zip) To Download ZIP File*
 
@@ -50,7 +50,7 @@
 * Description: 
 * Technologies: 
 
-<img src="https://as1.ftcdn.net/jpg/02/81/48/08/500_F_281480834_ukKYtMSx4HI2fGdgwNjUAa3QKVq2sFsc.jpg" id="zip">
+<img src="https://e1.pngegg.com/pngimages/507/111/png-clipart-leopard-archives-white-zip-file-icon.png" id="zip">
 
 *Click [HERE]() To Download ZIP File*
 
