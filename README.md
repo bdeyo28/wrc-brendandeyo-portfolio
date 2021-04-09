@@ -60,12 +60,15 @@
 
 ### Full Stack Engineer Consultant - Talent Path
 * Dates: January 2021 - Present
+* Description: 
 
 ### Certified Personal Trainer - Gold's Gym
 * Dates: September 2019 - December 2020
+* Description: Assist clients in achieving their physical goals through 1 on 1 training. Determine prospective member fitness objectives, design effective fitness plans, and sell professional services/membership.
 
 ### Java Tutor - McDaniel College, Department of Computer Science
 * Dates: October 2016 - May 2019
+* Description: Instructed over 40 college students in groups and individually on the “Art of Programming”. Facilitated class presentations, lectures, and labs.
 
 <hr>
 
