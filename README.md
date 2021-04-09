@@ -28,7 +28,7 @@
 * SQL
 
 **& Frameworks / Tech Stack Tools:**
-* Springboot 
+* Spring Boot
 * Maven
 * PostgreSQL
 * MySQL
@@ -41,7 +41,7 @@
 ## Projects
 ### Find My Paradise Mock Air Bnb Web Application
 * *Description:*
-* *Technologies:*  
+* *Technologies:* Spring Boot API, JUnit, JPA, Java, MySQL, VueJS
 
 <img src="FMP.gif" id="gif">
 
@@ -50,7 +50,7 @@
 
 ### Daily Pump Initiative Demo Day Project
 * *Description:* 
-* *Technologies:* 
+* *Technologies:* Spring Boot API, JUnit, Java, PostgreSQL, Angular 
 
 <img src="DPI.gif" id="gif">
 
