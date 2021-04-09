@@ -1,4 +1,5 @@
 <link href="style.css" rel="stylesheet">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.css">
 
 # Brendan Deyo's Portfolio
 
