@@ -3,7 +3,7 @@
 # Brendan Deyo's Portfolio
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_400_400/0/1616591168288?e=1623283200&v=beta&t=mZtupgrioxXCi90SmeuamTknkADoe_4hoyKR4OaDjxg" id = "profile">
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF-4GSnD_xtCQ/profile-displayphoto-shrink_800_800/0/1616591168288?e=1631750400&v=beta&t=3LTT8DjRCpCnmb511gjk2vI7NvbFJ2ZSbyP4Nticdac" id = "profile">
 
 
 ## Contact Information
