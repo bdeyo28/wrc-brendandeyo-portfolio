@@ -39,6 +39,14 @@
 
 <em id="italic">Click [HERE](https://github.com/bdeyo28/demo-project-repo) To Visit Github Repository</em>
 
+### EZ Planner Web Application
+* *Description:* Created using .NET framework, Microsoft SQL Server and AngularJS, EZ Planner is designed to make it easy for users to plan, schedule, and create events all in one place for the friends, family, or workplace. The two screenshots provided show the main homepage for the website and a window which includes the details of an event created by myself, user bdeyo100. Users will be able to save the information as a PDF and send out automated emails to the attendees of the event with the provided emails. Furthermore, users can also edit, delete, and add to each of the details given in the event. The website also includes a contact page which users can email me and provide questions or concerns they have with the website adding a layer of extra support for the information held within the API’s database.
+* *Technologies:* .NET Framework, Microsoft SQL Server, NUnit Testing, AngularJS
+
+<img src="assets/FMP.gif" id="gif">
+
+<em id="italic">Click [HERE](https://github.com/talent-path/classwork-deyo-brendan/tree/main/PlannerFrontEnd) To Visit Github Repository</em>
+
 <hr>
 
 ## Work Experience
