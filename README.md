@@ -45,7 +45,8 @@
 
 <img src="assets/EZPlanner.png" id="gif">
 
-<em id="italic">Click [HERE](https://github.com/talent-path/classwork-deyo-brendan/tree/main/PlannerFrontEnd) To Visit Github Repository</em>
+<em id="italic">Click [HERE](https://github.com/talent-path/classwork-deyo-brendan/tree/main/PlannerFrontEnd) To Visit Github Repository (Front-End)</em>
+<em id="italic">Click [HERE](https://github.com/talent-path/classwork-deyo-brendan/tree/main/PlannerAPI) To Visit Github Repository (Back-End)</em>
 
 <hr>
 
